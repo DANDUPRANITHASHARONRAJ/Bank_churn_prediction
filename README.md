@@ -53,5 +53,3 @@ Build a binary classification model to predict whether a bank customer will **ch
 - Actionable outcome: Enables banks to **identify high-risk customers** and design **targeted retention strategies**  
 
 ---
-
-## 📁 Repository Structure
