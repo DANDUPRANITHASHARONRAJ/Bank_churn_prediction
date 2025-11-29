@@ -42,7 +42,7 @@ Build a binary classification model to predict whether a bank customer will **ch
 
 ### 5. Evaluation
 - Metric: Accuracy, F1-score, ROC-AUC  
-- Achieved **~85% accuracy** and **12% reduction in false negatives**  
+- Achieved **~0.89 AUC-ROC**
 - Feature importance analysis for model interpretability  
 
 ---
